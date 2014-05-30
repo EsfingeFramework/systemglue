@@ -1,0 +1,19 @@
+
+Tarefas para o Framework
+-------------------------------------------
+
+- Mapeamento de Exceções e Estratégias de Erro
+- Testes de Componente com ClassMock
+- Suporte a conversão de tipos
+- Suporte a mapeamento de classes diferentes
+- Utilização de aspectos (modificado - CGLIB NEW)
+- Criação de finders mais sofisticados
+- Outros tipos de invocação (agendamento, JMS, deixar extensibilidade ...)
+- Adicionar transacionalidade
+- Flexibilização para criação de novas anotações de execução (NEW)
+- Adição de funções personalizadas nas regras (NEW)
+- Documentação (NEW)
+- Adicionar prioridade de invocação dos métodos (NEW)
+- Mapear retornos de métodos executados para propriedades de parâmetros
+- Carregamento de arquivos "inteligente"
+
